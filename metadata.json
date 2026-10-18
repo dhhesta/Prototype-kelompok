@@ -1,0 +1,6 @@
+{
+  "name": "RUANG AMAN — AI Sahabat Anti-Bullying",
+  "description": "Platform edukasi etika bermedia sosial, dukungan empatik, dan panduan pencegahan cyberbullying di lingkungan kampus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
